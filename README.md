@@ -10,4 +10,4 @@
   ## 🌴・Aide :
   | Name             | Description                                       |
   |------------------|---------------------------------------------------|
-  | Hyra Musique     | Afin de demander de l'aide vennez sur twitter     |
+  | Punch Club       | Afin de demander de l'aide vennez sur twitter     |
